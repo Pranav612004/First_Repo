@@ -1,0 +1,17 @@
+#box{
+    background-color: red;
+    /* color: aliceblue; */
+}
+
+.heading{
+    color: red;
+}
+/* you can also set color by select all three headings at one time like */
+
+h1,h2,h3{
+    color: green;
+}
+
+button{
+    background-color: green;
+}

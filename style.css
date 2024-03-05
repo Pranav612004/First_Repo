@@ -1,0 +1,33 @@
+h3{
+    color: pink; 
+}
+h2{
+    color:gold;
+}
+button{
+    color: lab(lightness a b);
+    background-color:red;
+}
+body{
+    background-color: slategrey;
+}
+
+#heading4{
+    color: black;
+}
+
+#heading5{
+    color: green;
+}
+
+#heading6{
+    color: blue;
+}
+
+#heading7{
+    color: red;
+}
+
+.definition{
+    color: palegreen;
+}
